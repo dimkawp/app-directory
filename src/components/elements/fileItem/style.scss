@@ -1,0 +1,29 @@
+.file-item {
+	cursor: pointer;
+	margin: 20px;
+	width: 100px;
+	display: flex;
+	flex-direction: column;
+
+	img {
+		width: 90px;
+		height: 100px;
+	}
+
+	&__name {
+		padding: 0 6px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+	}
+}
+
+.file-item-active {
+	background: rgba($color: #c5c5c5, $alpha: 0.5);
+
+    .file-item__name {
+        color: rebeccapurple;
+        display: block;
+    }
+}

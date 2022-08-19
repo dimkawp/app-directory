@@ -1,0 +1,26 @@
+.main-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    background: url(../../../assets/img/main-bg.jpg) no-repeat;
+    background-size: cover;
+    border: 4px solid;
+
+    &__text {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        right: 20px;
+        bottom: 20px;
+        color: rgba(255, 255, 255, 0.3);
+    }
+
+    @media screen and (max-width: 900px) {
+        background-size: 100% 100%;
+
+        &__text {
+            display: none;
+        }
+    }
+}
