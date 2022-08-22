@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/app-directory/static/css/main.0fda8600.css",
+    "main.js": "/app-directory/static/js/main.c1a1696f.js",
+    "static/js/787.8da6a6c6.chunk.js": "/app-directory/static/js/787.8da6a6c6.chunk.js",
+    "static/media/main-bg.jpg": "/app-directory/static/media/main-bg.7ab7484bc49847065fd1.jpg",
+    "static/media/word-file.png": "/app-directory/static/media/word-file.cf5d154d7c5d0b86ce85.png",
+    "static/media/pdf-file.png": "/app-directory/static/media/pdf-file.c2b0eac7d3b1deb6aa28.png",
+    "static/media/dir.png": "/app-directory/static/media/dir.463e88c6c52394c15035.png",
+    "static/media/file.png": "/app-directory/static/media/file.b0a007e1d4cca114a788.png",
+    "index.html": "/app-directory/index.html",
+    "main.0fda8600.css.map": "/app-directory/static/css/main.0fda8600.css.map",
+    "main.c1a1696f.js.map": "/app-directory/static/js/main.c1a1696f.js.map",
+    "787.8da6a6c6.chunk.js.map": "/app-directory/static/js/787.8da6a6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fda8600.css",
+    "static/js/main.c1a1696f.js"
+  ]
+}
